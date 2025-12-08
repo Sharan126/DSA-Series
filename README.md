@@ -52,3 +52,10 @@ You learned basic fundamentals needed to start writing C++ programs:
 Differences between compiled & interpreted languages
 Structure and syntax of a simple C++ program
 Variables, input/output, and data types
+
+
+
+
+
+
+DAY - 2
