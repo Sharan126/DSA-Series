@@ -1,3 +1,4 @@
+//Find Simple Interest 
 #include <bits/stdc++.h>
 using namespace std;
 

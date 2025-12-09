@@ -1,4 +1,5 @@
-#include <iostream>
+//Find an Area of Circle 
+#include <bits/stdc++.h>
 using namespace std;
 int main() {
     short r;
