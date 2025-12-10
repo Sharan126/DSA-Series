@@ -47,12 +47,6 @@ char
 bool
 Each has different size and memory allocation
 
-⭐ Day-1 Summary
-
-You learned basic fundamentals needed to start writing C++ programs:
-Differences between compiled & interpreted languages
-Structure and syntax of a simple C++ program
-Variables, input/output, and data types
 
 
 🌟 Day 2 – C++ Operators,Type Conversion,Conditional Statements
@@ -105,6 +99,7 @@ A sequence of multiple conditions checked one after another using several else i
 A decision-making statement that selects one block of code to execute based on the value of a variable or expression.
 
 
+
 🌟 Day 3 – Loops, Control Statements & Arrays (C++)
 
 1️⃣ Loops in C++
@@ -128,6 +123,7 @@ Taking input into arrays
 Iterating through arrays using for loops and range-based loops
 
 
+
 🌟 Day 4 – Functions & Parameter Passing 
 
 1️⃣ Functions
@@ -142,6 +138,7 @@ Changes made inside the function do not affect the original variable.
 🔹 Pass by Reference
 The actual variable is passed to the function using references.
 Changes made inside the function directly affect the original variable.
+
 
 
 🌟 Day 5 – Introduction to C++ STL, Pair & Vector
