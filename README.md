@@ -105,4 +105,58 @@ A sequence of multiple conditions checked one after another using several else i
 A decision-making statement that selects one block of code to execute based on the value of a variable or expression.
 
 
+🌟 Day 3 – Loops, Control Statements & Arrays (C++)
 
+1️⃣ Loops in C++
+Loops are used to repeat a block of code multiple times until a condition is met.
+Includes:
+for loop → used when the number of iterations is known
+while loop → runs as long as a condition is true
+do-while loop → executes at least once before checking the condition
+range-based for loop → used for easy iteration through arrays/collections
+
+2️⃣ Loop Control Statements
+Special statements that modify the execution flow of loops:
+break → immediately stops the loop
+continue → skips the current iteration and moves to the next one
+
+3️⃣ Working with Arrays
+Arrays store multiple values of the same data type in a single variable.
+Includes:
+Declaring arrays
+Taking input into arrays
+Iterating through arrays using for loops and range-based loops
+
+
+🌟 Day 4 – Functions & Parameter Passing 
+
+1️⃣ Functions
+Functions are reusable code blocks that take inputs (parameters), perform operations, and return outputs.
+They help reduce repetition and improve code organization.
+
+2️⃣ Parameter Passing
+🔹 Pass by Value
+A copy of the variable is passed to the function.
+Changes made inside the function do not affect the original variable.
+
+🔹 Pass by Reference
+The actual variable is passed to the function using references.
+Changes made inside the function directly affect the original variable.
+
+
+🌟 Day 5 – Introduction to C++ STL, Pair & Vector
+
+1️⃣ Introduction to C++ STL
+The Standard Template Library (STL) is a collection of powerful, reusable templates in C++ such as containers, algorithms, and iterators.
+It helps write clean, efficient, and optimized code with less effort.
+
+2️⃣ Pair
+A pair is a container that stores two values together (can be of different data types).
+Useful when returning or storing two related values as one unit.
+
+3️⃣ Vector
+A vector is a dynamic array in C++ that can grow or shrink in size at runtime.
+It supports:
+Fast insertion at the end
+Random access
+Built-in functions like push_back, size, pop_back, etc.
