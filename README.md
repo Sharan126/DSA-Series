@@ -54,8 +54,13 @@ Structure and syntax of a simple C++ program
 Variables, input/output, and data types
 
 
+🌟 Day 2 – C++ Conditional Statements
+✅ Topics Covered
+if
+if-else
+nested if-else
+if-else ladder
+switch statements
 
-
-
-
-DAY - 2
+📌Day-2 Summary
+Learned how to make decisions in C++ using different conditional structures. These help control program flow based on conditions
