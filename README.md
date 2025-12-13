@@ -157,3 +157,27 @@ It supports:
 Fast insertion at the end
 Random access
 Built-in functions like push_back, size, pop_back, etc.
+
+
+# 📅 Day 6: C++ STL – Deque & Stack
+
+🔹Deque (Double-Ended Queue)
+A **deque** is a C++ STL container that allows insertion, deletion, and access of elements from **both the front and the back** efficiently.
+
+🔹Stack
+A **stack** is a C++ STL container that follows the **LIFO (Last In, First Out)** principle, where the **last inserted element is removed first**.
+
+🔹Deque Operations
+Functions used to insert, remove, or access elements from both ends of a deque.
+
+🔹Stack Operations
+Functions used to insert, remove, or access elements only from the top of the stack.
+
+🔹Usage of Deque
+
+Deque is used when flexible insertion and deletion from both ends is required.
+
+🔹Usage of Stack
+
+Stack is used for managing sequential operations such as function calls and expression evaluation.
+
