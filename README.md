@@ -144,15 +144,15 @@ Changes made inside the function directly affect the original variable.
 # 🌟 Day 5 – Introduction to C++ STL, Pair & Vector
 
 ## 1️⃣ Introduction to C++ STL
-The Standard Template Library (STL) is a collection of powerful, reusable templates in C++ such as containers, algorithms, and iterators.
+The **Standard Template Library (STL)** is a collection of powerful, reusable templates in C++ such as containers, algorithms, and iterators.
 It helps write clean, efficient, and optimized code with less effort.
 
 ## 2️⃣ Pair
-A pair is a container that stores two values together (can be of different data types).
+A **pair** is a container that stores two values together (can be of different data types).
 Useful when returning or storing two related values as one unit.
 
 ## 3️⃣ Vector
-A vector is a dynamic array in C++ that can grow or shrink in size at runtime.
+A **vector** is a dynamic array in C++ that can grow or shrink in size at runtime.
 It supports:
 Fast insertion at the end
 Random access
@@ -182,7 +182,7 @@ Deque is used when flexible insertion and deletion from both ends is required.
 Stack is used for managing sequential operations such as function calls and expression evaluation.
 
 
-# 📅 Day 6: C++ STL – Queue & Priority Queue
+# 📅 Day 7: C++ STL – Queue & Priority Queue
 
 ## 🔹 Queue
 
