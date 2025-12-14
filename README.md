@@ -1,4 +1,4 @@
-🚀 Day 1 – C++ Bridge Course
+# 🚀 Day 1 – C++ Bridge Course
 
 ✅ Three Core Areas in Programming
 To master any programming language, focus on:
@@ -49,7 +49,7 @@ Each has different size and memory allocation
 
 
 
-🌟 Day 2 – C++ Operators,Type Conversion,Conditional Statements
+ # 🌟 Day 2 – C++ Operators,Type Conversion,Conditional Statements
 1️⃣ Arithmetic Operators
 Operators used to perform mathematical operations like addition, subtraction, multiplication, division, and modulus.
 Example: + , - , * , / , %
@@ -100,7 +100,7 @@ A decision-making statement that selects one block of code to execute based on t
 
 
 
-🌟 Day 3 – Loops, Control Statements & Arrays (C++)
+ # 🌟 Day 3 – Loops, Control Statements & Arrays (C++)
 
 1️⃣ Loops in C++
 Loops are used to repeat a block of code multiple times until a condition is met.
@@ -124,7 +124,7 @@ Iterating through arrays using for loops and range-based loops
 
 
 
-🌟 Day 4 – Functions & Parameter Passing 
+ # 🌟 Day 4 – Functions & Parameter Passing 
 
 1️⃣ Functions
 Functions are reusable code blocks that take inputs (parameters), perform operations, and return outputs.
@@ -141,7 +141,7 @@ Changes made inside the function directly affect the original variable.
 
 
 
-🌟 Day 5 – Introduction to C++ STL, Pair & Vector
+# 🌟 Day 5 – Introduction to C++ STL, Pair & Vector
 
 1️⃣ Introduction to C++ STL
 The Standard Template Library (STL) is a collection of powerful, reusable templates in C++ such as containers, algorithms, and iterators.
