@@ -181,3 +181,41 @@ Deque is used when flexible insertion and deletion from both ends is required.
 
 Stack is used for managing sequential operations such as function calls and expression evaluation.
 
+
+# 📅 Day 6: C++ STL – Queue & Priority Queue
+
+## 🔹 Queue
+
+A **queue** is a C++ STL container that follows the **FIFO (First In, First Out)** principle, where elements are inserted at the rear and removed from the front.
+
+---
+
+## 🔹 Priority Queue
+
+A **priority queue** is a special type of queue in C++ STL where elements are processed based on **priority** rather than insertion order.
+
+---
+
+## 🔹 Max Heap
+
+A **max heap** is a heap structure in which the **largest element** is always present at the top.
+
+---
+
+## 🔹 Min Heap
+
+A **min heap** is a heap structure in which the **smallest element** is always present at the top.
+
+---
+
+## 🔹 Queue Operations
+
+Queue operations are functions used to insert, remove, and access elements following the FIFO order.
+
+---
+
+## 🔹 Priority Queue Operations
+
+Priority queue operations are functions used to insert and remove elements based on their priority.
+
+
