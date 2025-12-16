@@ -6,10 +6,14 @@ Programming Abstractions
 Problem-Solving Approach
 Syntax
 
+---
+
 ## ✅ Compiler vs Interpreter
 Compiled languages (C++) → Faster execution, optimized performance
 Interpreted languages (Python) → Slower, executed line-by-line
 Understanding this difference helps in selecting the rightlanguage for a task.
+
+---
 
 ## ✅ Boilerplate Code in C++
 Basic structure of a C++ program includes:
