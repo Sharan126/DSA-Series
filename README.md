@@ -147,9 +147,13 @@ Changes made inside the function directly affect the original variable.
 The **Standard Template Library (STL)** is a collection of powerful, reusable templates in C++ such as containers, algorithms, and iterators.
 It helps write clean, efficient, and optimized code with less effort.
 
+---
+
 ## 2️⃣ Pair
 A **pair** is a container that stores two values together (can be of different data types).
 Useful when returning or storing two related values as one unit.
+
+---
 
 ## 3️⃣ Vector
 A **vector** is a dynamic array in C++ that can grow or shrink in size at runtime.
@@ -187,9 +191,9 @@ Deque is used when flexible insertion and deletion from both ends is required.
 ---
 
 🔹Usage of Stack
-
 Stack is used for managing sequential operations such as function calls and expression evaluation.
 
+---
 
 # 📅 Day 7: C++ STL – Queue & Priority Queue
 
