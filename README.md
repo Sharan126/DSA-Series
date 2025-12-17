@@ -13,7 +13,7 @@ Compiled languages (C++) → Faster execution, optimized performance
 Interpreted languages (Python) → Slower, executed line-by-line
 Understanding this difference helps in selecting the rightlanguage for a task.
 
-
+---
 
 ## ✅ Boilerplate Code in C++
 Basic structure of a C++ program includes:
@@ -29,7 +29,7 @@ Used for documentation and explanation inside code:
 Single line → // comment
 Multi-line → /* comment block */
 
----
+
 
 ## ✅ Variable Declarations
 C++ uses static typing
