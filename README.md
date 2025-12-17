@@ -36,6 +36,8 @@ C++ uses static typing
 Python uses dynamic typing
 Data type must be declared before use in C++
 
+---
+
 ## ✅ Input and Output in C++
 Input → cin
 Output → cout
