@@ -22,7 +22,7 @@ int main() {
     return 0;
 }
 
-
+---
 
 ## ✅ Comments in C++
 Used for documentation and explanation inside code:
