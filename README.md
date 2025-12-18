@@ -244,3 +244,29 @@ Queue operations are functions used to insert, remove, and access elements follo
 Priority queue operations are functions used to insert and remove elements based on their priority.
 
 
+# 📅 Day 8: C++ STL – Set & Unordered Set
+
+## 🔹 Set
+
+A **set** is a C++ STL container that stores **unique elements** in **sorted order**.
+
+---
+
+## 🔹 Multiset
+
+A **multiset** is a C++ STL container similar to set that allows **duplicate elements** while maintaining **sorted order**.
+
+---
+
+## 🔹 Unordered Set
+
+An **unordered set** is a C++ STL container that stores **unique elements** in an **arbitrary order** using hashing.
+
+---
+
+## 🔹 Set Operations
+
+Set operations are functions that support **insertion, deletion, searching, iteration, swapping, clearing, and size retrieval**.
+
+
+
