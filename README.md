@@ -307,6 +307,50 @@ A **multimap** is a C++ STL container that allows **duplicate keys** while maint
 An **unordered map** is a C++ STL container that stores **unique keys** with associated values in **no spec
 
 
+# 📅 Day 10: DSA – Overview
+
+## 🔹 Data Structures
+
+Data structures are systematic ways of organizing and storing data so that operations like access, insertion, and deletion can be performed efficiently.
+
+---
+
+## 🔹 Algorithms
+
+Algorithms are finite, well-defined sequences of steps used to solve a problem or perform a computation.
+
+---
+
+## 🔹 Data Structures Organize Information
+
+This refers to the role of data structures in arranging data logically to enable fast searching, updating, and management of information.
+
+---
+
+## 🔹 Algorithms Provide Step-by-Step Solutions
+
+This describes how algorithms solve problems by following a clear and ordered sequence of instructions.
+
+---
+
+## 🔹 Data Structures and Algorithms (DSA)
+
+DSA is the combined study of data structures and algorithms used to build efficient, scalable, and optimized software solutions.
+
+---
+
+## 🔹 Practical Impact of DSA
+
+Practical impact of DSA means applying data structures and algorithms to improve problem-solving ability and coding efficiency in real-world applications.
+
+---
+
+## 🔹 Foundation for Advanced Topics
+
+DSA forms the base required to understand advanced computer science concepts and succeed in technical interviews.
+
+
+
 
 
 
