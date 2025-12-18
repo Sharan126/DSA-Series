@@ -288,6 +288,7 @@ A **multimap** is a C++ STL container that allows **duplicate keys** while maint
 An **unordered map** is a C++ STL container that stores **unique keys** with associated values in **no spec
 
 
+
 # 📅 Day 9: C++ STL – Map & Unordered Map
 
 ## 🔹 Map
@@ -351,6 +352,53 @@ DSA forms the base required to understand advanced computer science concepts and
 
 
 
+# 📅 Day 11: DSA – Analyzing Algorithm Efficiency
+
+## 🔹 Algorithm Efficiency
+
+Algorithm efficiency refers to how an algorithm’s time and memory requirements grow as the input size increases.
+
+---
+
+## 🔹 Time Complexity
+
+Time complexity measures how the number of operations performed by an algorithm increases with the size of the input.
+
+---
+
+## 🔹 Asymptotic Notation
+
+Asymptotic notation is a mathematical way of describing algorithm performance using Big O (O), Big Omega (Ω), and Big Theta (Θ).
+
+---
+
+## 🔹 Big O Notation
+
+Big O notation represents the worst-case time or space complexity of an algorithm.
+
+---
+
+## 🔹 Big Omega Notation
+
+Big Omega notation represents the best-case time or space complexity of an algorithm.
+
+---
+
+## 🔹 Big Theta Notation
+
+Big Theta notation represents the tight or average bound of an algorithm’s time or space complexity.
+
+---
+
+## 🔹 Space Complexity
+
+Space complexity refers to the amount of memory an algorithm uses, including input storage and auxiliary space.
+
+---
+
+## 🔹 Efficiency Focus
+
+Efficiency focus means comparing algorithms based on how they scale with large inputs rather than exact execution time.
 
 
 
