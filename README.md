@@ -78,6 +78,8 @@ Example: == , != , > , < , >= , <=
 Operators used to combine multiple conditions.
 Example: && (AND), || (OR), ! (NOT)
 
+---
+
 ## 4️⃣ Assignment Operator
 Used to assign values to variables.
 Example: =
