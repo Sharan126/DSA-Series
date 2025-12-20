@@ -91,6 +91,8 @@ Also includes compound assignments like +=, -=, *=, /=
 Automatic conversion done by the compiler when a smaller data type is assigned to a larger data type.
 Example: int → float
 
+---
+
 ## 6️⃣ Explicit Type Conversion (Type Casting)
 Manual conversion of one data type into another using casting.
 Example: (float)num
