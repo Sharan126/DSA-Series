@@ -184,7 +184,6 @@ The actual variable is passed to the function using references.
 Changes made inside the function directly affect the original variable.
 
 
-
 # 🌟 Day 5 – Introduction to C++ STL, Pair & Vector
 
 ## 1️⃣ Introduction to C++ STL
