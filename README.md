@@ -177,6 +177,8 @@ They help reduce repetition and improve code organization.
 A copy of the variable is passed to the function.
 Changes made inside the function do not affect the original variable.
 
+---
+
 🔹 Pass by Reference
 The actual variable is passed to the function using references.
 Changes made inside the function directly affect the original variable.
