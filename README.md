@@ -153,6 +153,8 @@ Special statements that modify the execution flow of loops:
 break → immediately stops the loop
 continue → skips the current iteration and moves to the next one
 
+---
+
 ## 3️⃣ Working with Arrays
 Arrays store multiple values of the same data type in a single variable.
 Includes:
