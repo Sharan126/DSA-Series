@@ -59,7 +59,7 @@ char
 bool
 Each has different size and memory allocation
 
-
+---
 
  # 🌟 Day 2 – C++ Operators,Type Conversion,Conditional Statements
 1️⃣ Arithmetic Operators
