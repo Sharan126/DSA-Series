@@ -519,6 +519,36 @@ The least common multiple (LCM) is the smallest positive integer that is a multi
 For any two positive integers a and b, the product of their GCD and LCM is equal to the product of the numbers.
 
 
+Day 15: Understanding Recursion (Definitions Only)
+Pseudo Code
+
+Pseudo code is a high-level, language-independent description of an algorithm that explains the logic and flow of a solution without using strict programming syntax.
+
+Recursion
+
+Recursion is a programming technique in which a function calls itself to solve smaller instances of the same problem.
+
+Recursion Stack
+
+The recursion stack is a memory structure that stores information about each recursive function call until the base case is reached, after which calls return in reverse order.
+
+Base Case
+
+A base case is the terminating condition in a recursive function that stops further recursive calls and prevents infinite recursion.
+
+Global Variables
+
+Global variables are variables declared outside all functions and are accessible throughout the entire program.
+
+Local Variables
+
+Local variables are variables declared inside a function and are accessible only within that function’s scope.
+
+Recursion Tree
+
+A recursion tree is a visual representation of recursive calls showing how a problem is broken down into subproblems and how results are combined during return.
+
+
 
 
 
