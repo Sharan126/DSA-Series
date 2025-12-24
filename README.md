@@ -457,5 +457,42 @@ Reversing a number means rearranging its digits in the opposite order.
 A palindrome is a number that remains the same when its digits are reversed.
 
 
+# 📅 Day 13: Math Basics – Modulo & Number Theory
+
+## 🔹 Modulo Operation
+
+Modulo is a mathematical operation that returns the remainder after dividing one number by another.
+
+---
+
+## 🔹 Cyclic Pattern
+
+A cyclic pattern is a repeating sequence of values that resets after reaching a fixed limit, often managed using modulo.
+
+---
+
+## 🔹 Overflow Prevention
+
+Overflow prevention refers to controlling number size by keeping values within limits, commonly using modulo arithmetic.
+
+---
+
+## 🔹 Divisor
+
+A number X is called a divisor of another number Y if Y is completely divisible by X.
+
+---
+
+## 🔹 Prime Number
+
+A prime number is a natural number greater than 1 that has exactly two divisors: 1 and itself.
+
+---
+
+## 🔹 Sieve of Eratosthenes
+
+The Sieve of Eratosthenes is an efficient algorithm used to find all prime numbers up to a given limit.
+
+
 
 
