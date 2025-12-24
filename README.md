@@ -432,4 +432,30 @@ Space complexity refers to the amount of memory an algorithm uses, including inp
 Efficiency focus means comparing algorithms based on how they scale with large inputs rather than exact execution time.
 
 
+# 📅 Day 12: Math Basics
+
+## 🔹 Sum of Digits
+
+Sum of digits is the process of adding all individual digits of a given number.
+
+---
+
+## 🔹 Armstrong Number
+
+An Armstrong number is a number that is equal to the sum of its own digits each raised to the power of the total number of digits.
+
+---
+
+## 🔹 Reverse a Number
+
+Reversing a number means rearranging its digits in the opposite order.
+
+---
+
+## 🔹 Palindrome
+
+A palindrome is a number that remains the same when its digits are reversed.
+
+
+
 
