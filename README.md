@@ -494,5 +494,31 @@ A prime number is a natural number greater than 1 that has exactly two divisors:
 The Sieve of Eratosthenes is an efficient algorithm used to find all prime numbers up to a given limit.
 
 
+# 📅 Day 14: Math Basics – GCD & LCM
+
+## 🔹 GCD (Greatest Common Divisor)
+
+The greatest common divisor (GCD), also known as HCF, is the largest positive integer that divides two numbers without leaving a remainder.
+
+---
+
+## 🔹 Euclidean Algorithm
+
+The Euclidean Algorithm is an efficient method to compute the GCD of two numbers by repeatedly replacing the larger number with the remainder of their division.
+
+---
+
+## 🔹 LCM (Least Common Multiple)
+
+The least common multiple (LCM) is the smallest positive integer that is a multiple of two given numbers.
+
+---
+
+## 🔹 Relation Between GCD and LCM
+
+For any two positive integers a and b, the product of their GCD and LCM is equal to the product of the numbers.
+
+
+
 
 
