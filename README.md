@@ -539,9 +539,11 @@ The recursion stack is a memory structure that stores information about each rec
 
 ---
 
-Base Case
+## Base Case
 
 A base case is the terminating condition in a recursive function that stops further recursive calls and prevents infinite recursion.
+
+---
 
 Global Variables
 
