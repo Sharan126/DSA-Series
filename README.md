@@ -549,6 +549,36 @@ Recursion Tree
 A recursion tree is a visual representation of recursive calls showing how a problem is broken down into subproblems and how results are combined during return.
 
 
+Day 16: Recursion & Backtracking
+Recursion
+
+Recursion is a programming technique where a function calls itself to solve a problem by breaking it into smaller subproblems.
+
+Backtracking
+
+Backtracking is a problem-solving technique that explores possible solutions recursively and removes (backtracks) choices when they do not lead to a valid solution.
+
+Recursion and Backtracking (Execution Difference)
+
+In recursion, actions are typically performed before the recursive call, while in backtracking, actions are often performed during the return phase of recursive calls.
+
+Order of Execution (1 to N and N to 1)
+
+Printing from 1 to N occurs during the forward recursive calls, whereas printing from N to 1 occurs during the return (backtracking) phase.
+
+Time Complexity
+
+Time complexity describes how the execution time of an algorithm grows with the size of the input.
+
+Space Complexity
+
+Space complexity describes how much memory an algorithm uses, including the function call stack in recursion.
+
+Recursion Stack Space
+
+Recursion uses additional memory proportional to the depth of recursive calls due to the function call stack.
+
+
 
 
 
