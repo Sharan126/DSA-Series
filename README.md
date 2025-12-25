@@ -493,6 +493,7 @@ A prime number is a natural number greater than 1 that has exactly two divisors:
 
 The Sieve of Eratosthenes is an efficient algorithm used to find all prime numbers up to a given limit.
 
+---
 
 # 📅 Day 14: Math Basics – GCD & LCM
 
