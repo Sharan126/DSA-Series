@@ -103,13 +103,13 @@ Example: (float)num
 Converting numeric or character data into string format.
 Example: to_string(num)
 
----
+
 
 ## 8️⃣ Type Conversion (String → Primitive)
 Converting a string value back into integer, float, etc.
 Example: stoi(s), stof(s)
 
----
+
 
 ## 9️⃣ if Statement
 Executes a block of code only if the given condition is true.
