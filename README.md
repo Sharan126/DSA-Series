@@ -97,7 +97,7 @@ Example: int → float
 Manual conversion of one data type into another using casting.
 Example: (float)num
 
----
+
 
 ## 7️⃣ Type Conversion (Primitive → String)
 Converting numeric or character data into string format.
