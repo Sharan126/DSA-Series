@@ -170,7 +170,7 @@ Iterating through arrays using for loops and range-based loops
 Functions are reusable code blocks that take inputs (parameters), perform operations, and return outputs.
 They help reduce repetition and improve code organization.
 
----
+
 
 ## 2️⃣ Parameter Passing
 🔹 Pass by Value
