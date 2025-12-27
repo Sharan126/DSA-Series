@@ -190,7 +190,7 @@ Changes made inside the function directly affect the original variable.
 The **Standard Template Library (STL)** is a collection of powerful, reusable templates in C++ such as containers, algorithms, and iterators.
 It helps write clean, efficient, and optimized code with less effort.
 
----
+
 
 ## 2️⃣ Pair
 A **pair** is a container that stores two values together (can be of different data types).
