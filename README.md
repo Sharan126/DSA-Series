@@ -206,6 +206,7 @@ Fast insertion at the end
 Random access
 Built-in functions like push_back, size, pop_back, etc.
 
+---
 
 # 📅 Day 6: C++ STL – Deque & Stack
 
