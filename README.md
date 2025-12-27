@@ -162,7 +162,7 @@ Declaring arrays
 Taking input into arrays
 Iterating through arrays using for loops and range-based loops
 
-
+---
 
  # 🌟 Day 4 – Functions & Parameter Passing 
 
