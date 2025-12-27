@@ -134,7 +134,7 @@ A sequence of multiple conditions checked one after another using several else i
 ## 1️⃣3️⃣ switch Statement
 A decision-making statement that selects one block of code to execute based on the value of a variable or expression.
 
-
+---
 
  # 🌟 Day 3 – Loops, Control Statements & Arrays (C++)
 
