@@ -284,7 +284,6 @@ Priority queue operations are functions used to insert and remove elements based
 
 A **set** is a C++ STL container that stores **unique elements** in **sorted order**.
 
----
 
 ## 🔹 Multiset
 
