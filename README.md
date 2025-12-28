@@ -218,7 +218,7 @@ A **deque** is a C++ STL container that allows insertion, deletion, and access o
 🔹Stack
 A **stack** is a C++ STL container that follows the **LIFO (Last In, First Out)** principle, where the **last inserted element is removed first**.
 
----
+
 
 🔹Deque Operations
 Functions used to insert, remove, or access elements from both ends of a deque.
