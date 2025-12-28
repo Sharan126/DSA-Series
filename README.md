@@ -233,7 +233,7 @@ Functions used to insert, remove, or access elements only from the top of the st
 🔹Usage of Deque
 Deque is used when flexible insertion and deletion from both ends is required.
 
----
+
 
 🔹Usage of Stack
 Stack is used for managing sequential operations such as function calls and expression evaluation.
