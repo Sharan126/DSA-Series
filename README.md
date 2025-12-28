@@ -228,7 +228,7 @@ Functions used to insert, remove, or access elements from both ends of a deque.
 🔹Stack Operations
 Functions used to insert, remove, or access elements only from the top of the stack.
 
----
+
 
 🔹Usage of Deque
 Deque is used when flexible insertion and deletion from both ends is required.
