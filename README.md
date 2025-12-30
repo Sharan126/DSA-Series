@@ -320,25 +320,6 @@ An **unordered map** is a C++ STL container that stores **unique keys** with ass
 
 ---
 
-# 📅 Day 10: C++ STL – Map & Unordered Map
-
-## 🔹 Map
-
-A **map** is a C++ STL container that stores **unique key–value pairs** in **sorted order** and allows fast access using keys.
-
-
-
-## 🔹 Multimap
-
-A **multimap** is a C++ STL container that allows **duplicate keys** while maintaining **sorted order** of key–value pairs.
-
----
-
-## 🔹 Unordered Map
-
-An **unordered map** is a C++ STL container that stores **unique keys** with associated values in **no spec
-
-
 # 📅 Day 10: DSA – Overview
 
 ## 🔹 Data Structures
