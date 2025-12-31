@@ -406,7 +406,7 @@ Big Theta notation represents the tight or average bound of an algorithm’s tim
 
 Space complexity refers to the amount of memory an algorithm uses, including input storage and auxiliary space.
 
----
+
 
 ## 🔹 Efficiency Focus
 
