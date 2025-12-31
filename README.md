@@ -446,7 +446,7 @@ A palindrome is a number that remains the same when its digits are reversed.
 
 Modulo is a mathematical operation that returns the remainder after dividing one number by another.
 
----
+
 
 ## 🔹 Cyclic Pattern
 
