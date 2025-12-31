@@ -356,7 +356,7 @@ DSA is the combined study of data structures and algorithms used to build effici
 
 Practical impact of DSA means applying data structures and algorithms to improve problem-solving ability and coding efficiency in real-world applications.
 
----
+
 
 ## 🔹 Foundation for Advanced Topics
 
