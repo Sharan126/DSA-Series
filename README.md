@@ -438,7 +438,7 @@ Reversing a number means rearranging its digits in the opposite order.
 
 A palindrome is a number that remains the same when its digits are reversed.
 
-
+---
 
 # 📅 Day 13: Math Basics – Modulo & Number Theory
 
