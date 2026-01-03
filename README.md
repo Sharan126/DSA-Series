@@ -534,7 +534,7 @@ A base case is the terminating condition in a recursive function that stops furt
 
 Global variables are variables declared outside all functions and are accessible throughout the entire program.
 
----
+
 
 Local Variables
 
