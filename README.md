@@ -558,24 +558,33 @@ Recursion is a programming technique where a function calls itself to solve a pr
 
 ## Backtracking
 
-
 Backtracking is a problem-solving technique that explores possible solutions recursively and removes (backtracks) choices when they do not lead to a valid solution.
 
-Recursion and Backtracking (Execution Difference)
+
+
+## Recursion and Backtracking (Execution Difference)
 
 In recursion, actions are typically performed before the recursive call, while in backtracking, actions are often performed during the return phase of recursive calls.
 
-Order of Execution (1 to N and N to 1)
+
+
+## Order of Execution (1 to N and N to 1)
 
 Printing from 1 to N occurs during the forward recursive calls, whereas printing from N to 1 occurs during the return (backtracking) phase.
 
-Time Complexity
+
+
+ Time Complexity
 
 Time complexity describes how the execution time of an algorithm grows with the size of the input.
+
+
 
 Space Complexity
 
 Space complexity describes how much memory an algorithm uses, including the function call stack in recursion.
+
+
 
 Recursion Stack Space
 
