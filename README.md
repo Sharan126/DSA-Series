@@ -574,7 +574,6 @@ Time complexity describes how the execution time of an algorithm grows with the 
 
 
 ## Space Complexity
-
 Space complexity describes how much memory an algorithm uses, including the function call stack in recursion.
 
 
