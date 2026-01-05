@@ -27,7 +27,6 @@ Single line → // comment
 Multi-line → /* comment block */
 
 
-
 ## ✅ Variable Declarations
 C++ uses static typing
 Python uses dynamic typing
