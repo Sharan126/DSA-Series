@@ -7,7 +7,6 @@ Problem-Solving Approach
 Syntax
 
 
-
 ## ✅ Compiler vs Interpreter
 Compiled languages (C++) → Faster execution, optimized performance
 Interpreted languages (Python) → Slower, executed line-by-line
