@@ -21,7 +21,6 @@ int main() {
 }
 
 
-
 ## ✅ Comments in C++
 Used for documentation and explanation inside code:
 Single line → // comment
