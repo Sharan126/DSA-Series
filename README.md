@@ -580,7 +580,6 @@ Space complexity describes how much memory an algorithm uses, including the func
 
 
 ## Recursion Stack Space
-
 Recursion uses additional memory proportional to the depth of recursive calls due to the function call stack.
 
 
