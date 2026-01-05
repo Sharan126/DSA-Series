@@ -44,7 +44,6 @@ cin >> x;
 cout << "Value: " << x << endl;
 
 
-
 ## ✅ Data Types in C++
 Primitive data types you should know:
 int
