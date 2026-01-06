@@ -61,7 +61,6 @@ Operators used to perform mathematical operations like addition, subtraction, mu
 Example: + , - , * , / , %
 
 
-
 ## 2️⃣ Relational Operators
 Operators used to compare two values. The result is either true or false.
 Example: == , != , > , < , >= , <=
