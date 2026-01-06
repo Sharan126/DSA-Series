@@ -112,7 +112,6 @@ Executes a block of code only if the given condition is true.
 Executes one block if a condition is true, otherwise executes another block.
 
 
-
 ## 1️⃣1️⃣ Nested if-else
 Using an if or else block inside another if statement for multiple decision levels.
 
