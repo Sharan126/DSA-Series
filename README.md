@@ -66,7 +66,6 @@ Operators used to compare two values. The result is either true or false.
 Example: == , != , > , < , >= , <=
 
 
-
 ## 3️⃣ Logical Operators
 Operators used to combine multiple conditions.
 Example: && (AND), || (OR), ! (NOT)
