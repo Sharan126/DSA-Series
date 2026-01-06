@@ -118,7 +118,6 @@ Executes one block if a condition is true, otherwise executes another block.
 Using an if or else block inside another if statement for multiple decision levels.
 
 
-
 ## 1️⃣2️⃣ if-else Ladder
 A sequence of multiple conditions checked one after another using several else if statements.
 
