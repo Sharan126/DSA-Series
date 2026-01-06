@@ -123,7 +123,6 @@ Using an if or else block inside another if statement for multiple decision leve
 A sequence of multiple conditions checked one after another using several else if statements.
 
 
-
 ## 1️⃣3️⃣ switch Statement
 A decision-making statement that selects one block of code to execute based on the value of a variable or expression.
 
