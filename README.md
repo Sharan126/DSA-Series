@@ -133,7 +133,6 @@ do-while loop → executes at least once before checking the condition
 range-based for loop → used for easy iteration through arrays/collections
 
 
-
 ## 2️⃣ Loop Control Statements
 Special statements that modify the execution flow of loops:
 break → immediately stops the loop
