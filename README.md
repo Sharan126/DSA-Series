@@ -174,7 +174,6 @@ The **Standard Template Library (STL)** is a collection of powerful, reusable te
 It helps write clean, efficient, and optimized code with less effort.
 
 
-
 ## 2️⃣ Pair
 A **pair** is a container that stores two values together (can be of different data types).
 Useful when returning or storing two related values as one unit.
