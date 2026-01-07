@@ -102,7 +102,6 @@ Example: stoi(s), stof(s)
 Executes a block of code only if the given condition is true.
 
 
-
 ## 🔟 if-else Statement
 Executes one block if a condition is true, otherwise executes another block.
 
