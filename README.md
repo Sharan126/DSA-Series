@@ -154,7 +154,6 @@ Functions are reusable code blocks that take inputs (parameters), perform operat
 They help reduce repetition and improve code organization.
 
 
-
 ## 2️⃣ Parameter Passing
 🔹 Pass by Value
 A copy of the variable is passed to the function.
