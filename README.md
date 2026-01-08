@@ -431,7 +431,6 @@ Overflow prevention refers to controlling number size by keeping values within l
 
 
 ## 🔹 Divisor
-
 A number X is called a divisor of another number Y if Y is completely divisible by X.
 
 
