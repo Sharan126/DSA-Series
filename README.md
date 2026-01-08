@@ -175,7 +175,6 @@ A **pair** is a container that stores two values together (can be of different d
 Useful when returning or storing two related values as one unit.
 
 
-
 ## 3️⃣ Vector
 A **vector** is a dynamic array in C++ that can grow or shrink in size at runtime.
 It supports:
