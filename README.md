@@ -238,7 +238,6 @@ A **max heap** is a heap structure in which the **largest element** is always pr
 
 
 ## 🔹 Min Heap
-
 A **min heap** is a heap structure in which the **smallest element** is always present at the top.
 
 
