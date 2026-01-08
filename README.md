@@ -227,7 +227,6 @@ A **queue** is a C++ STL container that follows the **FIFO (First In, First Out)
 
 
 ## 🔹 Priority Queue
-
 A **priority queue** is a special type of queue in C++ STL where elements are processed based on **priority** rather than insertion order.
 
 
