@@ -222,7 +222,6 @@ A **priority queue** is a special type of queue in C++ STL where elements are pr
 
 
 ## 🔹 Max Heap
-
 A **max heap** is a heap structure in which the **largest element** is always present at the top.
 
 
