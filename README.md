@@ -221,7 +221,6 @@ A **queue** is a C++ STL container that follows the **FIFO (First In, First Out)
 A **priority queue** is a special type of queue in C++ STL where elements are processed based on **priority** rather than insertion order.
 
 
-
 ## 🔹 Max Heap
 
 A **max heap** is a heap structure in which the **largest element** is always present at the top.
