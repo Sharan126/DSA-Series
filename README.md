@@ -305,7 +305,6 @@ This refers to the role of data structures in arranging data logically to enable
 
 
 ## 🔹 Algorithms Provide Step-by-Step Solutions
-
 This describes how algorithms solve problems by following a clear and ordered sequence of instructions.
 
 
