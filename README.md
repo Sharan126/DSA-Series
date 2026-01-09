@@ -214,7 +214,6 @@ Stack is used for managing sequential operations such as function calls and expr
 # 📅 Day 7: C++ STL – Queue & Priority Queue
 
 ## 🔹 Queue
-
 A **queue** is a C++ STL container that follows the **FIFO (First In, First Out)** principle, where elements are inserted at the rear and removed from the front.
 
 
