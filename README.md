@@ -198,7 +198,6 @@ A **stack** is a C++ STL container that follows the **LIFO (Last In, First Out)*
 Functions used to insert, remove, or access elements from both ends of a deque.
 
 
-
 🔹Stack Operations
 Functions used to insert, remove, or access elements only from the top of the stack.
 
