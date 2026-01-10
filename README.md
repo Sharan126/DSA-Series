@@ -284,7 +284,6 @@ Algorithms are finite, well-defined sequences of steps used to solve a problem o
 
 
 ## 🔹 Data Structures Organize Information
-
 This refers to the role of data structures in arranging data logically to enable fast searching, updating, and management of information.
 
 
