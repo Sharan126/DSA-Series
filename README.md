@@ -229,7 +229,6 @@ A **max heap** is a heap structure in which the **largest element** is always pr
 A **min heap** is a heap structure in which the **smallest element** is always present at the top.
 
 
-
 ## 🔹 Queue Operations
 Queue operations are functions used to insert, remove, and access elements following the FIFO order.
 
