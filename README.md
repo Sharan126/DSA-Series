@@ -279,7 +279,6 @@ Data structures are systematic ways of organizing and storing data so that opera
 
 
 ## 🔹 Algorithms
-
 Algorithms are finite, well-defined sequences of steps used to solve a problem or perform a computation.
 
 
