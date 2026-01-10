@@ -279,7 +279,6 @@ An **unordered map** is a C++ STL container that stores **unique keys** with ass
 # 📅 Day 10: DSA – Overview
 
 ## 🔹 Data Structures
-
 Data structures are systematic ways of organizing and storing data so that operations like access, insertion, and deletion can be performed efficiently.
 
 
