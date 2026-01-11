@@ -337,7 +337,6 @@ Big Omega notation represents the best-case time or space complexity of an algor
 Big Theta notation represents the tight or average bound of an algorithm’s time or space complexity.
 
 
-
 ## 🔹 Space Complexity
 
 Space complexity refers to the amount of memory an algorithm uses, including input storage and auxiliary space.
