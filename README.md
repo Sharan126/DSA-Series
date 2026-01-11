@@ -294,7 +294,6 @@ This describes how algorithms solve problems by following a clear and ordered se
 DSA is the combined study of data structures and algorithms used to build efficient, scalable, and optimized software solutions.
 
 
-
 ## 🔹 Practical Impact of DSA
 Practical impact of DSA means applying data structures and algorithms to improve problem-solving ability and coding efficiency in real-world applications.
 
