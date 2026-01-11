@@ -290,7 +290,6 @@ This refers to the role of data structures in arranging data logically to enable
 This describes how algorithms solve problems by following a clear and ordered sequence of instructions.
 
 
-
 ## 🔹 Data Structures and Algorithms (DSA)
 
 DSA is the combined study of data structures and algorithms used to build efficient, scalable, and optimized software solutions.
