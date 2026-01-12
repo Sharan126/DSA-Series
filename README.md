@@ -334,7 +334,6 @@ Space complexity refers to the amount of memory an algorithm uses, including inp
 
 
 ## 🔹 Efficiency Focus
-
 Efficiency focus means comparing algorithms based on how they scale with large inputs rather than exact execution time.
 
 ---
