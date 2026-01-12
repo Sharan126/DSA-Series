@@ -341,7 +341,6 @@ Efficiency focus means comparing algorithms based on how they scale with large i
 # 📅 Day 12: Math Basics
 
 ## 🔹 Sum of Digits
-
 Sum of digits is the process of adding all individual digits of a given number.
 
 
