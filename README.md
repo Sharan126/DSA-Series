@@ -352,7 +352,6 @@ An Armstrong number is a number that is equal to the sum of its own digits each 
 Reversing a number means rearranging its digits in the opposite order.
 
 
-
 ## 🔹 Palindrome
 A palindrome is a number that remains the same when its digits are reversed.
 
