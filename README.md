@@ -357,7 +357,6 @@ Reversing a number means rearranging its digits in the opposite order.
 
 
 ## 🔹 Palindrome
-
 A palindrome is a number that remains the same when its digits are reversed.
 
 ---
