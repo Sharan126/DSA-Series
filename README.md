@@ -426,7 +426,6 @@ Pseudo code is a high-level, language-independent description of an algorithm th
 
 
 ## Recursion
-
 Recursion is a programming technique in which a function calls itself to solve smaller instances of the same problem.
 
 
