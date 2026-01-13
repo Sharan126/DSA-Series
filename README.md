@@ -482,7 +482,6 @@ In recursion, actions are typically performed before the recursive call, while i
 Printing from 1 to N occurs during the forward recursive calls, whereas printing from N to 1 occurs during the return (backtracking) phase.
 
 
-
 ## Time Complexity
 Time complexity describes how the execution time of an algorithm grows with the size of the input.
 
