@@ -383,7 +383,6 @@ A number X is called a divisor of another number Y if Y is completely divisible 
 
 
 ## 🔹 Prime Number
-
 A prime number is a natural number greater than 1 that has exactly two divisors: 1 and itself.
 
 
