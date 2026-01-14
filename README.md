@@ -416,7 +416,6 @@ For any two positive integers a and b, the product of their GCD and LCM is equal
 # Day 15: Understanding Recursion 
 
 ## Pseudo Code
-
 Pseudo code is a high-level, language-independent description of an algorithm that explains the logic and flow of a solution without using strict programming syntax.
 
 
