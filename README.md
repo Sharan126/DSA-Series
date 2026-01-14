@@ -409,7 +409,6 @@ The least common multiple (LCM) is the smallest positive integer that is a multi
 
 
 ## 🔹 Relation Between GCD and LCM
-
 For any two positive integers a and b, the product of their GCD and LCM is equal to the product of the numbers.
 
 ---
