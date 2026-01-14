@@ -368,7 +368,6 @@ Modulo is a mathematical operation that returns the remainder after dividing one
 A cyclic pattern is a repeating sequence of values that resets after reaching a fixed limit, often managed using modulo.
 
 
-
 ## 🔹 Overflow Prevention
 Overflow prevention refers to controlling number size by keeping values within limits, commonly using modulo arithmetic.
 
