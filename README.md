@@ -444,7 +444,6 @@ Global variables are variables declared outside all functions and are accessible
 Local variables are variables declared inside a function and are accessible only within that function’s scope.
 
 
-
 ## Recursion Tree
 A recursion tree is a visual representation of recursive calls showing how a problem is broken down into subproblems and how results are combined during return.
 
