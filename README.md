@@ -474,7 +474,6 @@ In recursion, actions are typically performed before the recursive call, while i
 
 
 ## Order of Execution (1 to N and N to 1)
-
 Printing from 1 to N occurs during the forward recursive calls, whereas printing from N to 1 occurs during the return (backtracking) phase.
 
 
