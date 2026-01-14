@@ -429,7 +429,6 @@ Recursion is a programming technique in which a function calls itself to solve s
 The recursion stack is a memory structure that stores information about each recursive function call until the base case is reached, after which calls return in reverse order.
 
 
-
 ## Base Case
 
 A base case is the terminating condition in a recursive function that stops further recursive calls and prevents infinite recursion.
