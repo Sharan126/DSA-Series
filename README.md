@@ -363,7 +363,6 @@ A palindrome is a number that remains the same when its digits are reversed.
 Modulo is a mathematical operation that returns the remainder after dividing one number by another.
 
 
-
 ## 🔹 Cyclic Pattern
 A cyclic pattern is a repeating sequence of values that resets after reaching a fixed limit, often managed using modulo.
 
