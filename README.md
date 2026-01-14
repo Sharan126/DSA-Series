@@ -469,7 +469,6 @@ Backtracking is a problem-solving technique that explores possible solutions rec
 In recursion, actions are typically performed before the recursive call, while in backtracking, actions are often performed during the return phase of recursive calls.
 
 
-
 ## Order of Execution (1 to N and N to 1)
 Printing from 1 to N occurs during the forward recursive calls, whereas printing from N to 1 occurs during the return (backtracking) phase.
 
