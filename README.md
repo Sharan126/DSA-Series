@@ -398,7 +398,6 @@ The greatest common divisor (GCD), also known as HCF, is the largest positive in
 The Euclidean Algorithm is an efficient method to compute the GCD of two numbers by repeatedly replacing the larger number with the remainder of their division.
 
 
-
 ## 🔹 LCM (Least Common Multiple)
 The least common multiple (LCM) is the smallest positive integer that is a multiple of two given numbers.
 
