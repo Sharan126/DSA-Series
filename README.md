@@ -400,7 +400,6 @@ The Euclidean Algorithm is an efficient method to compute the GCD of two numbers
 
 
 ## 🔹 LCM (Least Common Multiple)
-
 The least common multiple (LCM) is the smallest positive integer that is a multiple of two given numbers.
 
 
