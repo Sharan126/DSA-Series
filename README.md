@@ -456,7 +456,6 @@ Backtracking is a problem-solving technique that explores possible solutions rec
 
 
 ## Recursion and Backtracking (Execution Difference)
-
 In recursion, actions are typically performed before the recursive call, while in backtracking, actions are often performed during the return phase of recursive calls.
 
 
