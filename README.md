@@ -388,7 +388,6 @@ The Sieve of Eratosthenes is an efficient algorithm used to find all prime numbe
 # 📅 Day 14: Math Basics – GCD & LCM
 
 ## 🔹 GCD (Greatest Common Divisor)
-
 The greatest common divisor (GCD), also known as HCF, is the largest positive integer that divides two numbers without leaving a remainder.
 
 
