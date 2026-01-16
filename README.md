@@ -392,7 +392,6 @@ The greatest common divisor (GCD), also known as HCF, is the largest positive in
 
 
 ## 🔹 Euclidean Algorithm
-
 The Euclidean Algorithm is an efficient method to compute the GCD of two numbers by repeatedly replacing the larger number with the remainder of their division.
 
 
