@@ -447,7 +447,6 @@ Recursion is a programming technique where a function calls itself to solve a pr
 
 
 ## Backtracking
-
 Backtracking is a problem-solving technique that explores possible solutions recursively and removes (backtracks) choices when they do not lead to a valid solution.
 
 
