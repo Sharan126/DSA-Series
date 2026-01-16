@@ -14,7 +14,7 @@ Understanding this difference helps in selecting the rightlanguage for a task.
 
 
 ## ✅ Boilerplate Code in C++
-Basic structure of a C++ program includes:
+Basic structure of a C++ program:
 #include <iostream>
 int main() {
     return 0;
