@@ -423,7 +423,6 @@ The recursion stack is a memory structure that stores information about each rec
 A base case is the terminating condition in a recursive function that stops further recursive calls and prevents infinite recursion.
 
 
-
 ## Global Variables
 Global variables are variables declared outside all functions and are accessible throughout the entire program.
 
