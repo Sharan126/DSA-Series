@@ -1,4 +1,4 @@
- # 🚀 Day 1 – C++ Bridge C
+ # 🚀 Day 1 – C++ Bridge Co
 
 ## ✅ Three Core Areas in Programming
 To master any programming language, focus on:
