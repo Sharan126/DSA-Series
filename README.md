@@ -1,6 +1,6 @@
  # 🚀 Day  1 – C++ Bridge  Course
 
-## ✅ Three Core Areas in 
+## ✅ Three Core Areas in P
 To master any programming language, focus on:
 Programming Abstractions
 Problem-Solving Approach
