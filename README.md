@@ -1,4 +1,4 @@
- # 🚀 Day  1 – C++ Brid
+ # 🚀 Day  1 – C++ Br
 
 ## ✅ Three Core Areas in Programming
 To master any programming language, focus on:
