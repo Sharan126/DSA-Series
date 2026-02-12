@@ -1,6 +1,6 @@
  # 🚀 Day  1 – C++ Bridge Course
 
-## ✅ Th Core Areas in Programming
+## ✅ The Core Areas in Programming
 To master any programming language, focus on:
 Programming Abstractions
 Problem-Solving Approach
