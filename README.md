@@ -1,4 +1,4 @@
- # 🚀 Day  1 – C++ Bridge Cour
+ # 🚀 Day  1 – C++ Bridge Cou
 
 ## ✅ The Core Areas in Progr
 To master any programming language, focus on:
