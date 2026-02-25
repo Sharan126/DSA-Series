@@ -7,7 +7,7 @@ Problem-Solving Approach
 Synt
 
 
-## ✅ Compiler VS Interpr
+## ✅ Compiler VS Interp
 Compiled languages (C++) → Faster execution, optimized performance
 Interpreted languages (Python) → Slower, executed line-by-line
 Understanding this difference helps in selecting the rightlanguage for a task.
