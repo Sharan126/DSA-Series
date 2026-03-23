@@ -4,7 +4,7 @@
 To master any programming language, focus on:
 Programming Abstractions
 Problem-Solving Approach
-Synta
+Syntax
 
 
 ## ✅ Compiler VS Interpreter
